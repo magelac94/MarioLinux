@@ -3,7 +3,7 @@ Practico Docker
 
 #------#
 
-git clone git@https://github.com/magelac94/Linux2019.git
+git clone https://github.com/magelac94/MarioLinux.git
 
 cd /MarioLinux/practico
 
