@@ -1,0 +1,5 @@
+FROM tomcat
+COPY tomcat/* /usr/local/tomcat/webapps
+WORKDIR /tomcat
+EXPOSE 8080
+CMD ["catalina.sh", "run"]
